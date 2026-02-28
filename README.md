@@ -1,8 +1,5 @@
 # VendorForge Nexus – Scalable Multi-Vendor E-Commerce SaaS
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/vendorforge-nexus?style=social)](https://github.com/yourusername/vendorforge-nexus)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A production-grade **multi-vendor marketplace SaaS** (inspired by Etsy + Gumroad) with independent seller stores, custom domains, flash sales, instant payouts, and ML recommendations. Built with true microservices for scalability and fault isolation.
 
 ## Features
